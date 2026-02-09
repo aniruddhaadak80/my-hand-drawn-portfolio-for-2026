@@ -10,10 +10,8 @@ With this portfolio, I wanted to break away from the standard corporate sleeknes
 
 ## Portfolio
 
-{% embed https://hand-drawn-portfolio-demo.vercel.app %}
-
-> **Live Demo:** [https://hand-drawn-portfolio-demo.vercel.app](https://hand-drawn-portfolio-demo.vercel.app)
-> **Source Code:** [https://github.com/AniruddhaAdak/hand-drawn-portfolio](https://github.com/AniruddhaAdak/hand-drawn-portfolio)
+> **Live Demo:** [https://hand-drawn-portfolio-demo.vercel.app](https://my-hand-drawn-portfolio-for-2026.vercel.app/)
+> **Source Code:** [https://github.com/AniruddhaAdak/hand-drawn-portfolio](https://github.com/AniruddhaAdak80/my-hand-drawn-portfolio-for-2026)
 
 ## How I Built It
 
