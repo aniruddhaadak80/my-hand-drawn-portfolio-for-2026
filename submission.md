@@ -1,3 +1,5 @@
+# Code Meets Canvas: Building a 56-Section Hand-Drawn Portfolio with Google Antigravity 🎨
+
 *This is a submission for the [New Year, New You Portfolio Challenge Presented by Google AI](https://dev.to/challenges/new-year-new-you-google-ai-2025-12-31)*
 
 ## About Me
