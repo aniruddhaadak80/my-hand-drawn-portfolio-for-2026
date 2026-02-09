@@ -1,6 +1,3 @@
-# I Asked an AI Agent to Build My "Perfect" Portfolio (It Went a Little Crazy... 56 Sections Crazy 🤯)
-
-*This is a submission for the [New Year, New You Portfolio Challenge Presented by Google AI](https://dev.to/challenges/new-year-new-you-google-ai-2025-12-31)*
 
 ## About Me
 
@@ -8,64 +5,126 @@ I'm Aniruddha Adak, an AI Agent Engineer specializing in building autonomous sys
 
 With this portfolio, I wanted to break away from the standard corporate sleekness and create something that reflects my rigorous engineering background wrapped in a playful, hand-drawn aesthetic. It's a digital sketchbook where my code comes to life.
 
-## Portfolio
+### The Journey Through 56 Sections
 
-> **Live Demo:** [https://hand-drawn-portfolio-demo.vercel.app](https://my-hand-drawn-portfolio-for-2026.vercel.app/)
-> **Source Code:** [https://github.com/AniruddhaAdak/hand-drawn-portfolio](https://github.com/AniruddhaAdak80/my-hand-drawn-portfolio-for-2026)
+> **1. Hero Section**
 
-## How I Built It
+![Imagption](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mipsiabggjqqt9w99lut.png)
 
-### The "Paper & Ink" Tech Stack
-I chose a minimalist, dependency-free approach to ensure maximum performance and creativity:
-- **HTML5**: Semantic structure for 50+ unique sections.
-- **CSS3**: No frameworks. Custom CSS variables for the hand-drawn design system.
-- **Vanilla JavaScript**: Lightweight Intersection Observers for scroll animations.
-- **Google Fonts**: `Kalam` for headings and `Patrick Hand` for body text to mimic handwriting.
+> **2. Quotes That Inspire Me**
 
-### Google AI Tools Used
-I leveraged **Google's Gemini 1.5 Pro** via **Project IDX** and the **Gemini API** to accelerate development:
 
-1. **Code Generation & Refactoring**:
-   - Used Gemini to generate the initial HTML structure for 56 unique sections.
-   - Asked Gemini to "convert this standard grid layout into a masonry layout with CSS columns."
-   - Utilized Gemini's understanding of CSS clip-paths to create the complex "wobbly border" shapes without SVG assets.
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1f3gd4wcxjfaodoloi3y.png)
 
-2. **Content Creation**:
-   - Generated placeholder blog posts and project descriptions using Gemini.
-   - Brainstormed 50+ unique section ideas (from "Pet Projects" to "Daily Routine").
 
-3. **Debugging & Optimization**:
-   - Solved complex scroll animation logic issues by pasting the JS code into Gemini.
-   - Optimized the CSS for performance, ensuring 60fps animations even with 50+ animated elements.
 
-### Design Decisions
-- **Wobbly Borders**: Instead of standard `border-radius: 8px`, I used multi-value radii like `255px 15px 225px 15px / 15px 225px 15px 255px` to create organic, imperfect shapes.
-- **Paper Texture**: A subtle CSS radial gradient background mimics the grain of paper.
-- **Tape & Tacks**: CSS pseudo-elements (`::before`, `::after`) create the illusion of sticky tape and thumbtacks holding the content cards.
+> **3. About Me**
 
-## What I'm Most Proud Of
+![Image iption](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/shhdpv2otpio57b1kqfr.png)
 
-### 1. The sheer Scale (50+ Sections)
-Most portfolios have 4-5 sections. I pushed the limits to **56 unique sections**, covering everything from my "Tech Wishlist" to "Music Preferences." It's a comprehensive digital identity.
 
-### 2. The Animation Engine
-I built a custom, lightweight animation engine that supports **15+ different entrance effects**:
-- `slide-left` / `slide-right` with rotation
-- `bounce-in` for playful headers
-- `stagger-children` for grids
-- `draw-line` for SVG paths
 
-### 4. The "Social" Footer
-I didn't just want a static footer. I integrated **12 different social platforms** (from GitHub to Letterboxd style CodePen links) with custom hand-drawn icons that wiggle on hover. It's fully connected.
+> **4. Mission Statement**
 
-### 5. Google Antigravity Integration
-Using **Google Antigravity** (the agentic coding assistant) was a game-changer. It allowed me to:
-- Rapidly prototype complex layouts.
-- Manage the massive 2000+ line HTML file without getting lost.
-- Automatically fix "mojibake" (corrupted characters) and clean up the code.
-- Implement the "Copyright 2026" futuristic touch!
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmtcur2mx872fkp80qk9.png)
 
-![Hand Drawn Portfolio Screenshot](https://raw.githubusercontent.com/AniruddhaAdak/my-hand-drawn-portfolio-for-2026/main/screenshot.png)
+
+> **5. Metrics Counter**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mowv9ohtwi7ao073rndh.png)
+
+
+> **6. Technical Skills**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hqnrslnhvlg0zbau1ty3.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h9b9ydrlitgwbrgihksz.png)
+
+
+
+> **7. Proficiency Bars**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/czjlv2lvii6v2ca3d1gv.png)
+
+
+> **8. Education**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wthww390xlyaqeu4mu7u.png)
+
+> **9. Services**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ggqlxdvsygmlnw2pnqcf.png)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqbqjjboe5wy7cdz4g39.png)
+
+> **10. Experience Timeline**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fo4jopcqxesal54l517l.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bsr6yhh08dh8e0lzceob.png)
+
+
+
+> **11. Selected Projects**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cnoo1f79pn9tdvsyxsej.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u0zy3cwfcy7mmzbd4kf1.png)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a51ko3jo0tisf1humkzi.png)
+
+
+> **12. Testimonials**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04phhus7b1c0yzabmrnr.png)
+
+
+> **13. Blog Posts**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t64a8s64wmw4kkyomhp1.png)
+
+
+> **14. Fun Facts**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ml4z6cyrh6szb4d7ybj8.png)
+
+
+> **15. GitHub Stats**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3zy0qqggptekjs9s2enx.png)
+
+
+> **16. Contact & Social Footer**
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9qoyl50bae9muyr62qb.png)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0iyg5oeqvgcsjfnk4yi.png)
+
+
+
+*(...and 40+ more sections including Travel, Music, Goals, and Code Snippets!)*
+
+> ## How I Built It
+
+**HTML5** + **CSS3** + **Vanilla JavaScript** + **Google Fonts**
+
+> ## Google Antigravity used for
+
+✅ **Code Generation**
+
+✅ **Visual CSS**
+
+✅ **Content Creation**
+
+✅ **Debugging**
+
 
 ---
 *Thanks for checking out my submission!*
+
+
+
+
