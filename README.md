@@ -1,7 +1,8 @@
-# 🎨 Hand-Drawn AI Engineer Portfolio
+# Hand-Drawn AI Engineer Portfolio
 
-> A unique, hand-drawn style portfolio for an AI Agent Engineer, built with HTML, CSS, and Vanilla JavaScript.
+**A unique, hand-drawn style portfolio for an AI Agent Engineer, built with HTML, CSS, and Vanilla JavaScript.**
 
+I am Aniruddha Adak | AI Agent Engineer - and this is my hand-drawn portfolio for 2026.
 
 ### The Journey Through 56 Sections
 
